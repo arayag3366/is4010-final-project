@@ -23,5 +23,8 @@ To close the command-line application, press 'X'.
 
 ## Examples
 ### Losing the crane game
+<img width="1450" height="285" alt="losing" src="https://github.com/user-attachments/assets/0a2b640c-6e19-4742-9582-47b283327e78" />
 
 ### Winning the crane game
+<img width="800" height="450" alt="winning" src="https://github.com/user-attachments/assets/e91836a9-c55b-453e-9671-1477c860bfa2" />
+
