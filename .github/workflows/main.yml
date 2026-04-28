@@ -29,5 +29,16 @@ jobs:
       - name: Run test_crane_game tests
         if: steps.check_file.outputs.exists == 'true'
         run: |
-          export PYTHONPATH="${PYTHONPATH}:week00"
-          pytest test_crane_game/ -v
+          pytest test_crane_game.py -v
+
+
+
+
+
+
+
+
+
+
+
+
