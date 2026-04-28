@@ -10,9 +10,6 @@ jobs:
   test-python:
     runs-on: ubuntu-latest
     steps:
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
       - name: Check if crane_game file exists
         id: check_file
         run: |
